@@ -8,3 +8,4 @@ I am anticipating that my favorite Code School path to come will be Ruby.
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
